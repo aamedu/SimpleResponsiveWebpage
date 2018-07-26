@@ -4,7 +4,7 @@ A Simple Responsive WebPage HTML CSS
 
 Assumptions and Solutions
 
-1. 1. The mobile web is important (Design mobile first).
+1. The mobile web is important (Design mobile first).
 
 2. Create once, publish everywhere.
 
